@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTFont", "BTFont\BTFont.csproj", "{A5B1F9FC-2FAA-4319-B607-6A39089F6C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTStringFont", "BTStringFont\BTStringFont.csproj", "{423E0CA4-887E-445B-87E3-46743B31F34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B1F9FC-2FAA-4319-B607-6A39089F6C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B1F9FC-2FAA-4319-B607-6A39089F6C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B1F9FC-2FAA-4319-B607-6A39089F6C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B1F9FC-2FAA-4319-B607-6A39089F6C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423E0CA4-887E-445B-87E3-46743B31F34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423E0CA4-887E-445B-87E3-46743B31F34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423E0CA4-887E-445B-87E3-46743B31F34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423E0CA4-887E-445B-87E3-46743B31F34A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1B7619-766B-4522-8E61-1547AEC89FAD}
+	EndGlobalSection
+EndGlobal
